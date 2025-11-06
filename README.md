@@ -9,3 +9,37 @@ Malicious Python packages make software supply chains vulnerable by exploiting t
   <img src="Figures/Framework.jpg" alt="DySec Framework" width="500"/>
 </p>
 <p align="center"><em>Figure 1: The overall workflow of DySec for detecting malicious packages.</em></p>
+
+## Citation
+
+If you use this study in your research, please cite it as:
+
+@article{Mehedi2025DySec,
+  author    = {Sk Tanzir Mehedi and Chadni Islam and Gowri Ramachandran and Raja Jurdak},
+  title     = {DySec: A Machine Learning-based Dynamic Analysis for Detecting Malicious Packages in the PyPI Ecosystem},
+  journal   = {arXiv preprint},
+  year      = {2025},
+  eprint    = {2503.00324},
+  archivePrefix = {arXiv},
+  primaryClass   = {cs.CR},
+  doi       = {10.48550/arXiv.2503.00324},
+  url       = {https://arxiv.org/abs/2503.00324}
+}
+
+## Authors
+
+- **Sk Tanzir Mehedi** (Queensland University of Technology)  
+  [ORCID](https://orcid.org/0000-0003-4435-7856)
+- **Chadni Islam** (Edith Cowan University)  
+  [ORCID](https://orcid.org/0000-0002-6349-6483)
+- **Gowri Ramachandran** (Queensland University of Technology)  
+  [ORCID](https://orcid.org/0000-0001-5944-1335)
+- **Raja Jurdak** (Queensland University of Technology)  
+  [ORCID](https://orcid.org/0000-0001-7517-0782)
+
+## Contact
+
+For questions or collaborations, please contact:
+
+**Sk Tanzir Mehedi**  (s.tanzir@qut.edu.au)
+
